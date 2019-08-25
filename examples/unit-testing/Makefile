@@ -1,5 +1,4 @@
 .PHONY: build
-CPATH='/Users/kunalmandalia/Documents/code/C/examples/unit-testing'
 
 build:
 	gcc -Wall -o ./build/app.o ./src/main.c ./src/money.c -lcheck -I ./src/
