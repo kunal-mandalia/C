@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "check.h": "c",
+    "money.h": "c",
+    "algorithm": "c"
+  }
+}
